@@ -1,0 +1,15 @@
+You have a minimal but functional web infrastructure with:
+
+A domain name (www.foobar.com) using an A record pointing to 8.8.8.8
+
+A single server running:
+
+Nginx (web server)
+
+PHP-FPM / Python / Node.js (application server)
+
+Your application code
+
+MySQL (database)
+
+All communication over HTTP(S)
